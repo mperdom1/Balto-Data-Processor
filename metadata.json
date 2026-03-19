@@ -1,0 +1,5 @@
+{
+  "name": "Balto Data Processor",
+  "description": "A utility to extract and format specific columns from Balto call reports, supporting inbound and outbound modes for checklists and notifications.",
+  "requestFramePermissions": []
+}
